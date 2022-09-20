@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=KNwbq&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,CCCCCC,999999,666666&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=KNwbq&hide_title=true&count_privace=true&hide=prs&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,CCCCCC,999999,666666&theme=graywhite" />
 
 
-
-<!-- <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kwbq" /> </div> -->
 
 <!--
 **KNwbq/KNwbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
