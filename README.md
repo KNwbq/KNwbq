@@ -6,15 +6,15 @@ Welcome to this Github. He is Ng Benkyun😎, an Artificial Intelligence PhD can
 
 - 🔭 I’m currently working on **Sequential Recommendation**.
 - 🌱 I’m currently learning the application of **casual inference** in AI.
-- 📫 How to reach me: **plmnkoijb-_** (vx)
+- 📫 How to reach me: **plmnkoijb-_** (vx).
 
 ### ⚡ Technologies
 💬 Ask me about
-- Deep Learning with the **Pytorch/Tensorflow**
-- Competition about the **Recommendation System**
-- Competition about the **Hyper Parameters Optimization**
-- Any **Rank** algorithm in the Recommendation System
-- Any algorithm in the Automatic Machine Learning System
+- Deep Learning with the **Pytorch/Tensorflow**.
+- Competition about the **Recommendation System**.
+- Competition about the **Hyper Parameters Optimization**.
+- Any **Rank** algorithm in the Recommendation System.
+- Any algorithm in the Automatic Machine Learning System.
 
 ### 👨‍💻 Work stats
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KNwbq&hide_title=true&hide_border=true&hide=prs&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,CCCCCC,999999,666666&theme=graywhite" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNwbq&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,666666,555555,444444&theme=graywhite" /> </div>
