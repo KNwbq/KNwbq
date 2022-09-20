@@ -6,6 +6,7 @@ Welcome to this Github. He is Ng Benkyun😎, an Artificial Intelligence PhD can
 
 - 🔭 I’m currently working on **Sequential Recommendation**.
 - 🌱 I’m currently learning the application of **casual inference** in AI.
+- ⚡ Working content: Competition & Paper & Experiment
 - 📫 How to reach me: **plmnkoijb-_** (vx).
 
 ### ⚡ Technologies
