@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 😁😁😁
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=KNwbq" /> </div>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=KNwbq&hide_title=true&count_privace=true&hide=prs&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,CCCCCC,999999,666666&theme=graywhite" />
+Welcome to this Github. He is Ng Benkyun😎, an Artificial Intelligence PhD candidate🤓 from South China University of Technology🏫(SCUT). He works in the Data Mining&Deep Learning Lab(DMDLL)🖥️ of SCUT. Interested in AI, he mainly focus on **Recommendation System** and **Neural Language Processing**⭐.
+
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KNwbq&hide_title=true&hide_border=true&hide=prs&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,CCCCCC,999999,666666&theme=graywhite" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNwbq&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,666666,555555,444444&theme=graywhite" /> </div>
 
 
 
