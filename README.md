@@ -1,5 +1,4 @@
 ### Hi there 😁😁😁
-<div> <img src="https://visitor-badge.glitch.me/badge?page_id=KNwbq" /> </div>
 
 ### 😎 Abstract
 Welcome to this Github. He is Ng Benkyun😎, an Artificial Intelligence PhD candidate🤓 from South China University of Technology🏫(SCUT). He works in the Data Mining&Deep Learning Lab(DMDLL)🖥️ of SCUT. Interested in AI, he mainly focus on **Recommendation System** and **Neural Language Processing**⭐. Stay hungry, Stay foolish.
