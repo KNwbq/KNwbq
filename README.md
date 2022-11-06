@@ -17,10 +17,8 @@ Welcome to this Github. He is Ng Benkyun😎, an Artificial Intelligence PhD can
 - Any algorithm in the **Automatic Machine Learning System**.
 
 ### 👨‍💻 Work stats
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KNwbq&hide_title=true&hide_border=true&hide=prs&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,CCCCCC,999999,666666&theme=graywhite" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNwbq&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,666666,555555,444444&theme=graywhite" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KNwbq&hide_title=true&hide_border=true&hide=prs&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,CCCCCC,999999,666666&theme=graywhite" />
 
-### 🥚My Github Contribution
-![snake](https://raw.githubusercontent.com/KNwbq/KNwbq/main/assets/github-contribution-grid-snake.svg)
 
 
 <!--
