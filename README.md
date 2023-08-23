@@ -1,7 +1,7 @@
 ### Hi there 😁😁😁
 
 ### 😎 Abstract
-Welcome to this Github. He is Ng Benkyun😎, an Artificial Intelligence PhD candidate🤓 from South China University of Technology🏫(SCUT). He works in the Data Mining&Deep Learning Lab(DMDLL)🖥️ of SCUT. Interested in AI, he mainly focus on **Recommendation System** and **Neural Language Processing**⭐. Stay hungry, Stay foolish.
+Welcome to this Github. He is Ng Benkyun😎, an Artificial Intelligence PhD candidate🤓 from South China University of Technology🏫(SCUT). He works in the Data Mining&Deep Learning Lab🖥️ of SCUT. Interested in AI, he mainly focus on **Recommendation System** and **Self-Supervised Learning**⭐. Stay hungry, Stay foolish.
 
 - 🔭 I’m currently working on **Sequential Recommendation**.
 - 🌱 I’m currently learning the application of **casual inference** in AI.
